@@ -74,6 +74,7 @@ Referensi:
 - [Kotlin for Android Developers](https://antonioleiva.com/kotlin-android-developers-book/)
 
 ---
+
 # Introduction: Apa itu Kotlin?
 Kotlin itu common language yang digunakan untuk membuat "native" android application. Selain kotlin, ada juga bahasa pemgrograman/framework yang dipake buat ngoding aplikasi mobile.
 - Flutter using Dart programming language
@@ -82,7 +83,9 @@ Kotlin itu common language yang digunakan untuk membuat "native" android applica
 - Java (predecessor-nya Kotlin, kebanyakan developer tidak menggunakan Java lagi di mobile development)
 
 ---
+
 # Basic Concepts
+
 ---
 
 # Hello World
