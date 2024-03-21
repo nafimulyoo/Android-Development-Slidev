@@ -590,8 +590,8 @@ hazet.print() // outputs: Hazet adalah mahasiswa TF dengan nim 13321045
 ---
 
 # Inheritance
-![](images/inheritance.png)
 
+![Local Image](/images/inheritance.png)
 ---
 
 # Inheritance
@@ -650,7 +650,7 @@ fun main() {
 
 
 # Polymorphism
-![](images/polymorphism.png)
+![](/images/polymorphism.png)
 
 ---
 
@@ -677,6 +677,7 @@ rahwal.bersuara() // outputs "Meow! pemilik aku Raul"
 - [Kotlin Course - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU&t=4925s&pp=ygUGa290bGlu)
 
 ---
+
 # Introduction to Android Studio 
 
 ---
